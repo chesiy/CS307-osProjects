@@ -1,0 +1,1 @@
+cmd_/home/chesiy/osProject/Proj1/seconds/seconds.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/chesiy/osProject/Proj1/seconds/seconds.ko /home/chesiy/osProject/Proj1/seconds/seconds.o /home/chesiy/osProject/Proj1/seconds/seconds.mod.o ;  true
